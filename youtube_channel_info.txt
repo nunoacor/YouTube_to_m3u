@@ -1,6 +1,23 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+fatima ||| Fatima.pt
+https://www.youtube.com/watch?v=Ymu8JZMWqD0&pp=ygUQY2FwZWxpbmhhIGZhdGltYQ%3D%3D
+
+Fatimalive ||| Fatimalive.pt
+https://www.youtube.com/@SantuáriodeFátima-f4z/live
+
+fatimaCapela ||| FatimaCapela.pt
+https://www.youtube.com/watch?v=GENH9mWlvb4&pp=ygUQY2FwZWxpbmhhIGZhdGltYQ%3D%3D
+
+vatnews ||| Vaticano.it
+https://www.youtube.com/@VaticanNews/live
+
+vatnewspt  ||| Vaticanonews.pt
+https://www.youtube.com/@VaticanNewsPT/live
+
+vatlivept  ||| Vaticanolive.pt
+https://www.youtube.com/channel/UCGYSq4b4DXmtK4jyq6r-FYg/live
 
 contala ||| ContaLa.pt
 https://www.youtube.com/watch?v=3YotInjS45A
