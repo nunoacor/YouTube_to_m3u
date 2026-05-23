@@ -20,7 +20,7 @@ import shlex
 import subprocess
 from typing import Optional, Dict, Any, List
 
-FALLBACK_M3U = "https://raw.githubusercontent.com/thomraider12/YouTube_to_m3u/main/assets/offline.m3u"
+FALLBACK_M3U = "https://raw.githubusercontent.com/nunoacor/YouTube_to_m3u/main/assets/offline.m3u"
 
 try:
     from yt_dlp import YoutubeDL
